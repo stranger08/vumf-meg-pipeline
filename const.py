@@ -1,0 +1,5 @@
+BASE_WORKDIR = '/home/s8/Documents/VU/dataset/workdir'
+SUBJECTS_DIR = '/home/s8/Documents/VU/dataset/subjects_dir/freesurfer'
+MEG_FILTERED_FNAME = 'raw_meg.fif'
+EVOKED_FULL_FNAME = 'evoked-full-ave.fif'
+COVARIANCE_FNAME = 'full-cov.fif'

@@ -1,2 +1,2 @@
 # vumf-meg-pipeline
-This is to develop MEG pipeline for localizing language centers
+Prediction of ECD locations using ML regression.
